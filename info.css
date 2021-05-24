@@ -1,0 +1,13 @@
+.alert {
+   width:60%;
+   margin-left:370px;
+}
+.container {
+  position: relative;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
